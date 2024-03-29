@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋, I'm Dhruvik Virani</h2>
+<h2 align="center">Welcome to my profile 👋, I'm Dhruvik Virani</h2>
 <h3 align="center">An Indian-based self-motivated full stack developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvikvirani&margin-w=15&margin-h=15&column=5&theme=juicyfresh" alt="dhruvikvirani" /></a> </p>
